@@ -1,13 +1,214 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing:0 ;
+    box-sizing: border-box ;
 }
 body{
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
+/* file(page-partners) */
+.home_partners span{
+    color: blue;
+}
+.our_partners{
+    color: blue;
+    font-size: 34px;
+}
+.container_partner_page{
+    /* background-color: brown; */
+    width: 100%;
+    padding: 20px;
+}
+.contianer_title_and_logo{
+    width: 80%;
+    margin: 20px;
+    margin: auto;
+    font-size: 34px;
+    padding: 60px;
+    color: blue;
+    font-weight: bold;
+    /* background-color: chartreuse; */
+
+}
+hr{
+    color: blue;
+    width: 700px;
+}
+.logo_partners {
+    /* margin: 30px; */
+    padding: 20px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+
+}  
+.framed_pic{
+    width: 90%;
+  border: 1px solid #555; /* Width, style, and color of the border */
+  border-radius: 10px;    /* Optional: for rounded corners */
+  padding: 5px;           /* Optional: space between image and frame */
+
+
+}
+
+
+/* file(page-find-doctors) */
+.where_we_are_in{
+    background-color: #eef6fb;
+    width: 100%;
+    display: block;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title_we_are_in{
+    /* background-color: rgb(9, 218, 148); */
+    width: 80%;
+    margin: 20px;
+    margin: auto;
+    padding: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    color: #0a39d1;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.our_doctors{
+    color: #0a39d1;
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.massive_container_in_doctors{
+    /* background-color: crimson; */
+    display: block;
+    width: 100%;
+}
+.search_container{
+    margin-top: 20px;
+}
+.search__title_pic_doctors{
+    
+    width: 80%;
+    /* background-color: rgb(37, 192, 17); */
+    margin: 20px;
+    margin: auto;
+}
+.search_bar {
+    display: flex;
+    align-items: flex-start;
+    background-color: #e7dada; 
+    border-radius: 40px; 
+    padding: 5px 25px;
+    width: 1200px; 
+    margin: 0 auto; 
+    border: 1px solid #162ae0; 
+}
+.search_icon {
+    font-size: 1.5em;
+    margin-right: 15px;
+    margin-top: 10px;
+    color: #000000; 
+}
+.search_input {
+    flex-grow: 1; 
+    border: none;
+    outline: none; 
+    padding: 5px 0;
+    color: #333; 
+    background-color: transparent; 
+}
+
+
+.search_input::placeholder {
+    color: #121111; 
+    font-weight: 300;
+}
+.specialization_each_doctors{
+    margin-top: 20px;
+    /* background-color: goldenrod; */
+    display: flex;
+    justify-content: space-between;
+
+}
+.button {
+    border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #0a39d1;
+}
+
+.button1:hover {
+  background-color: #153be4;
+  color: white;
+}
+.container_fram_pic_doctor{
+    margin-top: 20px;
+    /* background-color: rgb(248, 88, 14); */
+    display: flex;
+    justify-content: space-between;
+}
+.fram_pic_doctors {
+    text-align: center;
+    width: 300px;
+    height: 350px;
+    display: block;  
+    border: #a71b1b;
+    border-radius: 20px ;
+    border-radius: 40px solid #630000;
+}
+.fram_pic_doctor:hover {
+    transform: translateY(-6px);
+}
+
+.circle_image{
+  width: 200px;         /* Set a specific width */
+  height: 200px;        /* Set the same height to make it a square */
+  border-radius: 50%;   /* This creates the circular shape */
+  object-fit: cover;    /* Ensures the image covers the entire circle area */
+
+}
+.button_profile{
+    margin-top: 30px;
+   background-color: white;
+    padding: 10px 32px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.button_profile:hover{
+    background-color: #153be4;
+  color: white;
+}
+.fram_pic_doctors {
+    border: #000 solid 2px;
+}
+.container2_fram_pic_doctor{
+    /* background-color: rgb(248, 88, 14); */
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+
+/* file(page-appointment) */
 .header_appointment{
+    background-color: #eef6fb;
+    padding: 40px;
     display: flex;
     justify-content: space-between;
 }
@@ -16,6 +217,7 @@ body{
     font-size: 30px;
     color: blue;
     margin-top: 10px;
+    font-weight: bold;
 }
 .appontment a{
     text-decoration: none;
@@ -23,6 +225,9 @@ body{
 }
 .logo_left img{
     width: 200px;
+}
+.line{
+    width: 100%;
 }
 /* form_contact_section */
 .container_form_contact{
@@ -53,5 +258,70 @@ input{
   margin-top: 6px;
   margin-bottom: 16px;
 
+}
+.submit {
+    border-radius: 5px;
+  border: none;
+  width: 100%;
+ 
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.submit:hover {
+  background-color: #153be4;
+    
+}
+
+
+/* file(contact-page) */
+.container_contact{
+    width: 100%;
+    /* background-color: #a71b1b; */
+}
+.container_big{
+    width: 80%;
+    /* background-color: #cef108; */
+    margin: 20px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.containter_contact_us{
+    width: 100%;
+    /* background-color: #0a39d1; */
+
+}
+.underline{
+    width: 200px;
+    color: #0a39d1;
+}
+h2{
+    color: #0a39d1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.underline_form_contact{
+    width: 400px;
+    color: #0a39d1;
+}
+.media{
+    display: grid;
+}
+
+.icon_media{
+    display: flex;
+    gap: 10px;
+}
+.form_contact{
+    margin-bottom: 160px;
 }
 
