@@ -1,3 +1,4 @@
+<?php get_header(); ?>
 <link rel="stylesheet" href="<?= get_template_directory_uri(); ?>/style.css">
 
 
@@ -74,3 +75,5 @@
 
     
 </div>
+
+<?php get_footer(); ?>
