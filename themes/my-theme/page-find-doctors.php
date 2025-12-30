@@ -36,7 +36,7 @@
             
              
             <div class="fram_pic_doctors">
-                <img src="http://ohana-clinic.test/wp-content/uploads/2025/12/photo_6226436985941855363_y.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/47/a4/44/47a4448f2df0046ee1f7bed28f87e551.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>
@@ -44,7 +44,7 @@
             </div>
 
             <div class="fram_pic_doctors">
-                <img src="http://ohana-clinic.test/wp-content/uploads/2025/12/photo_6226436985941855363_y.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/ad/6c/b0/ad6cb07e44a5e63ffc89d7723b181052.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>
@@ -52,7 +52,7 @@
             </div>
 
             <div class="fram_pic_doctors">
-                <img src="http://ohana-clinic.test/wp-content/uploads/2025/12/photo_6226436985941855363_y.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/ad/80/55/ad8055b13008318ac2402c5af13cb3d1.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>
@@ -60,7 +60,7 @@
             </div>
 
             <div class="fram_pic_doctors">
-                <img src="http://ohana-clinic.test/wp-content/uploads/2025/12/photo_6226436985941855363_y.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/52/3e/fb/523efbc478cea1ba4f9c09dc73675bb3.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>
@@ -72,7 +72,7 @@
         <div class="container2_fram_pic_doctor">
              
             <div class="fram_pic_doctors">
-                <img src="https://intercarehospital.com/wp-content/uploads/2024/05/Dr.-Haiko-van-der-Marel.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/11/98/52/1198520b6cb41490a078e45b2d6cb18c.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>
@@ -80,7 +80,7 @@
             </div>
 
             <div class="fram_pic_doctors">
-                <img src="https://intercarehospital.com/wp-content/uploads/2024/05/Dr.-Haiko-van-der-Marel.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/49/3e/11/493e1196484a324a8c83482867ad9ded.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>
@@ -88,7 +88,7 @@
             </div>
 
             <div class="fram_pic_doctors">
-                <img src="https://intercarehospital.com/wp-content/uploads/2024/05/Dr.-Haiko-van-der-Marel.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/fe/d7/e9/fed7e92eae8ac38de67e0ea70cf29d63.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>
@@ -96,7 +96,7 @@
             </div>
 
             <div class="fram_pic_doctors">
-                <img src="https://intercarehospital.com/wp-content/uploads/2024/05/Dr.-Haiko-van-der-Marel.jpg" alt="pic_doctor" class="circle_image">
+                <img src="https://i.pinimg.com/736x/1e/fa/9a/1efa9afc368215c2a65d797806f4896c.jpg" alt="pic_doctor" class="circle_image">
                 <h2 class="name_doctor">Dr.AL-Samusa</h2>
                 <p>General Practitioner</p>
                 <button class="button_profile">PROFILE <span><i class="fa-solid fa-circle-exclamation" style="color: #ffffff;"></i></span></button>

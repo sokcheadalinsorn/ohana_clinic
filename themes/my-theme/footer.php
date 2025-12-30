@@ -2,61 +2,47 @@
 <main>
 
 <footer>
+        <div class="container_footer">
 
-    <div class="container_footer">
+            <div class="map">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15636.800440411322!2d104.8805006976919!3d11.537498285584194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310950549f27fc1b%3A0x65c2d5b055de0d9d!2sPSE%20-%20Pour%20un%20Sourire%20d&#39;Enfant!5e0!3m2!1sen!2skh!4v1765782940549!5m2!1sen!2skh"
+                    width="400" height="200" margin="auto" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade" class="-map-">
+                </iframe>
+            </div>
 
-        <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15636.800440411322!2d104.8805006976919!3d11.537498285584194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310950549f27fc1b%3A0x65c2d5b055de0d9d!2sPSE%20-%20Pour%20un%20Sourire%20d&#39;Enfant!5e0!3m2!1sen!2skh!4v1765782940549!5m2!1sen!2skh" width="700" height="400" margin="auto"  margin-top:10px  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="-map-"></iframe>
-        </div>
-
-
-        <div class="contact_Navigation_Social">
-            <div class="contact_us">
-                <h2 class="title_footer">Contact Us</h2> <br>
-                <div class="icon_contact">
-                    <span><i class="fa-solid fa-phone"></i>+855 093 987 456</span> <br><br>
-                    <span><i class="fa-solid fa-envelope"></i>ohanaclinic@gmail.com </span> <br><br>
-                    <span><i class="fa-solid fa-location-dot"></i>Phum Prek Thom, Songkat Kbal Koh, <br> Chbar Ompov Distrit,  Phnom Penh</span>
-
-                </div> <br><br>
-
-                <h2 class="title_footer">Media contact</h2> <br>
-                <div class="media_contact">
-                    <i class="fa-brands fa-facebook"></i>
-                    <i class="fa-brands fa-telegram"></i>
-                    <i class="fa-brands fa-linkedin"></i>
-                </div>
+            <div class="about_us">
+                <h2 class="tilttle_about_us">About Ohana Clinic</h2> <br>
+                <p>Appointment</p> <br>
+                <p>Find Doctors</p> <br>
+                <p>Our Partner</p> <br>
+                <p>Contact Us</p> <br>
 
             </div>
-               
-            <div class="fast_quick">
-                <h2 class="title_footer">Home</h2> <br>
 
-                <a href="#"><p>Home</p></a> <br>
-                <a href="#"><p>About</p></a> <br>
-                <a href="#"><p>Doctor</p></a> <br>
-                <a href="#"><p>Appointment</p></a> <br>
-                <a href="#"><p>Partners</p></a> <br>
-                
+            <div class="media">
+                <h2>Find Us</h2> <br>
+                <span><i class="fa-solid fa-location-dot"></i></span>
+                <p>Phum Prek, Thom Songkat Kbal koh , Chbar Ompov Distrit, Phnom Penh.</p>
+                <span><i class="fa-solid fa-phone"></i></span>
+                <p>+855 96 123 4567</p>
+                <span><i class="fa-solid fa-envelope"></i></span>
+                <p>ohanaclinic@gmail.com</p>
+            </div>
+
+            <div class="media_contact">
+                <h2>Media Contact</h2> <br>
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-linkedin"></i>
+                <i class="fa-brands fa-telegram"></i>
             </div>
 
         </div>
-
-        
-
-
-    </div>
-
-
-    <hr class="underline_in_footer">
-
-    <p class="last_txt_footer">
-        Copyright notice “© 2025 Ohana Clinic. All rights reserved.”
-    </p>
-
-
-
-</footer>
+        <div class="copyright">
+            <p>© 2025 Ohana Clinic. All rights reserved.</p>
+        </div>
+    </footer>
     
 <?php wp_footer(); ?>
     </body>

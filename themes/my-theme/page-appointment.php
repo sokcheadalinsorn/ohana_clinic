@@ -23,13 +23,6 @@
 
         <div class="contact_form">
             <form action="action_page.php">
-                <select name="doctor" id="doctor">
-                        <option value="Dr.Al-Samusa">Dr.Al-Samusa</option>
-                </select> <br>
-
-
-                <label for="fname">Doctors</label><br>
-                <input type="text" placeholder="Choose the doctor from the list"><br>
 
 
                 <label for="fname">First name</label><br>
@@ -40,20 +33,51 @@
                 <input type="text" placeholder="Enter your last name"><br>
 
 
-                <label for="lname">Sex</label><br>
-                <input type="text" placeholder="Select your sex">
+                <label for="sex">Sex</label><br>
+                <select id="sex" name="sex">
+                    <option value="">Select your sex</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select>
 
 
-                <label for="lname">Date of birth</label><br>
-                <input type="text" placeholder="DD/MM/YY">
+
+                <label for="doctor">Choose Doctor</label><br>
+                <select id="doctor" name="doctor">
+                    <option value="">Select Doctor</option>
+                    <option value="dr_sok">Dr. Sok</option>
+                    <option value="dr_dara">Dr. Dara</option>
+                    <option value="dr_srey">Dr. Srey</option>
+                </select>
+
+                <br><br>
+
+                <label for="date">Appointment Date</label><br>
+                <input type="date" id="date" name="appointment_date">
+
+                <br><br>
 
 
-                <label for="lname">Phone Number</label><br>
-                <input type="text" placeholder="+855(KH)">
+                <!-- nis muy dom -->
+                <label for="phone">Phone Number</label><br>
+                <div class="phone_number">
+                    <select name="country_code" id="country_code">
+                        <option value="">Select country</option>
+                        <option value="+855">🇰🇭 Cambodia (+855)</option>
+                        <option value="+66">🇹🇭 Thailand (+66)</option>
+                        <option value="+84">🇻🇳 Vietnam (+84)</option>
+                        <option value="+81">🇯🇵 Japan (+81)</option>
+                        <option value="+1">🇺🇸 USA (+1)</option>
+                    </select>
+
+                    <input  type="tel" name="phone" placeholder="Enter phone number">
+                </div>
+                <!-- nis muy dom -->
 
 
                 <label for="lname">Email Address</label><br>
-                <input type="text" placeholder="Enter you email">
+                <input type="text" placeholder="e.g sokcheadalinsorn@gmail.com">
 
                 
                 <label for="reason">Reason for appointment</label>

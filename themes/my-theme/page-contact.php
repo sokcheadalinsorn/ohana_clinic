@@ -14,30 +14,13 @@
 
 <main class="container_contact">
     <div class="container_big">
+
+       <!-- left_side -->
         <div class="container_contact_us">
-            <h2>Contact Us</h2>
-            <hr class="underline"> <br>
-
-            <div class="media">
-                <span><i class="fa-solid fa-phone"></i>093 987 456</span> <br>
-                <span><i class="fa-solid fa-envelope"></i>ohanaclinic@gmail.com</span> <br>
-                <span><i class="fa-solid fa-location-dot"></i>Phum Prek Thom, Songkat Kbal Koh, Chbar Ompov Distrit, Phnom Penh</span>
-
-            </div> <br>
-
-            <h2>Follow Us</h2>
-            <hr class="underline">
-            <br>
-
-            <div class="icon_media">
-                <i class="fa-brands fa-facebook"></i> 
-                <i class="fa-brands fa-telegram"></i> 
-                <i class="fa-brands fa-linkedin"></i>
-
-            </div>
-
+            
         </div>
         
+        <!-- right side -->
 
         <div class="form_contact">
             <h2>We want to hear from you</h2>

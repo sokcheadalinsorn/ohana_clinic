@@ -73,14 +73,17 @@
         <h1 class="title_clinic_appreance">Culture room</h1> 
         <hr class="line_in_page_about">
 
-        <div class="last_img_4_row_1">
-            <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/56-1024x724.jpg" alt="" class="clinic_appreance">
-            <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/50-1024x724.jpg" alt="" class="clinic_appreance">
-        </div>
+        <div class="row_img">
+            <div class="last_img_4_row_1">
+                <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/56-1024x724.jpg" alt="" class="clinic_appreance">
+                <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/50-1024x724.jpg" alt="" class="clinic_appreance">
+            </div>
 
-        <div class="last_img_4_row_2">
-            <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/77-1024x724.jpg" alt="" class="clinic_appreance">
-            <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/79-1024x724.jpg" alt="" class="clinic_appreance">
+            <div class="last_img_4_row_2">
+                <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/77-1024x724.jpg" alt="" class="clinic_appreance">
+                <img src="https://keiai-clinic.jp/wp/wp-content/uploads/2023/08/79-1024x724.jpg" alt="" class="clinic_appreance">
+            </div>
+
         </div>
 
         
